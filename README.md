@@ -22,7 +22,7 @@ This application is an iOS project that mimics the look and feel of the native S
 
 ## Project Structure
 
-
+```
 IOS-Settings-App/
 ├── IOS Project 1/                # Main application code
 │   ├── AppDelegate.swift       # App lifecycle management
@@ -40,7 +40,7 @@ IOS-Settings-App/
 ├── IOS Project 1 Tests/           # Unit test files
 ├── IOS Project 1 UITests/         # UI test files
 └── README.md                   # Project documentation
-
+```
 
 ## Getting Started
 
