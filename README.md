@@ -1,3 +1,6 @@
+# IOS-Settings-App
+Mobile Project
+
 ## Overview
 
 This application is an iOS project that mimics the look and feel of the native Settings app on iOS, built with Swift using Xcode. The app demonstrates various UI elements and functionality to simulate a settings screen where users can set preferences.
